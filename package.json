@@ -1,0 +1,14 @@
+{
+  "name": "decrypt-tool",
+  "version": "1.0.0",
+  "description": "A simple decryption tool using webcrack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "webcrack": "latest",
+    "fs": "latest"
+  },
+  "type": "module"
+}
